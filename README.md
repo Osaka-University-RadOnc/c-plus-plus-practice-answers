@@ -1,1 +1,2 @@
-# c-plus-plus-practice-answers
+# C++ 100本ノックの答案です
+C++の基礎編がcplpl_base.cppに答案があります。
