@@ -11,3 +11,5 @@ int main(){
   }
 <in python>
  print("Hello, world!!")
+
+#初級編は、cplpl_begginer.cppにあります。
