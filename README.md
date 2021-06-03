@@ -9,7 +9,7 @@ int main(){
   cout << " Hello, world!! "endl;
   return 0;
   }
-<in python>
+<in Python>
  print("Hello, world!!")
 
 #初級編は、cplpl_begginer.cppにあります。
