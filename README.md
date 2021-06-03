@@ -2,14 +2,14 @@
 C++の基礎編がcplpl_base.cppに答案があります。
 pythonの構文との比較してみてください。
 C++での表示とpythonのprint関数による表示
-<in C++>
+-- C++ --
 #include <iostream>
 using namespace std;
 int main(){
   cout << " Hello, world!! "endl;
   return 0;
   }
-<in Python>
+-- PYTHON --
  print("Hello, world!!")
 
 #初級編は、cplpl_begginer.cppにあります。
