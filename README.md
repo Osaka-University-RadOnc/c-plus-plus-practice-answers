@@ -11,5 +11,6 @@ int main(){
   }
 -- PYTHON --
  print("Hello, world!!")
+  どれだけpythonが楽であるかよくわかると思います。
 
 #初級編は、cplpl_begginer.cppにあります。
